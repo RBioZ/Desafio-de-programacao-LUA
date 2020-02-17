@@ -1,8 +1,7 @@
 # Desafio das olimpíadas de programação
-#
-Autor: Jonatha Rihan da Silva
-WhatsApp: +55 (81)996509220
-E-mail: jonatha_rihan@hotmail.com
+Autor: Jonatha Rihan da Silva<br>
+WhatsApp: +55 (81)996509220<br>
+E-mail: jonatha_rihan@hotmail.com<br>
 #
 Projeto universitário com propósito calcular simulações de temperaturas na lua.
 
